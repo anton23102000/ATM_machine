@@ -1,0 +1,15 @@
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\bin\Debug\net8.0\ATM_machine.exe
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\bin\Debug\net8.0\ATM_machine.deps.json
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\bin\Debug\net8.0\ATM_machine.runtimeconfig.json
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\bin\Debug\net8.0\ATM_machine.dll
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\bin\Debug\net8.0\ATM_machine.pdb
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\ATM_machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\ATM_machine.AssemblyInfoInputs.cache
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\ATM_machine.AssemblyInfo.cs
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\ATM_machine.csproj.CoreCompileInputs.cache
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\ATM_machine.sourcelink.json
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\ATM_machine.dll
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\refint\ATM_machine.dll
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\ATM_machine.pdb
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\ATM_machine.genruntimeconfig.cache
+C:\Users\AntonPavliuchyk\Documents\Course\ATM_machine\ATM_machine\obj\Debug\net8.0\ref\ATM_machine.dll
